@@ -1,0 +1,32 @@
+.todo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.tasks {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.add {
+  display: flex;
+  gap: 10px;
+}
+
+input {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border-color: green;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  background-color: transparent;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border-color: green;
+}
