@@ -1,0 +1,24 @@
+ - Collection of same data type.
+ - Stored Contiguously in memory.
+ - Same Data type so every item is of the same size
+
+ADVANTAGES
+ - Random Access, Modification is fast
+ - Cache friendliness as contiguous ( Temporary Storage which is fast)
+
+DISADVANTAGES
+ - Not useful where lots of operations like inserting in the middle, deleting from middle, searching unsorted data.
+
+TYPES
+
+ - BASED ON SIZE
+   
+   - Fixed Size
+   - Dynamic Size
+
+- BASED ON DIMENSIONS
+  
+  - One Dimensional
+  - Two Dimensional
+  - Three Dimensional
+  - Multi Dimensional
