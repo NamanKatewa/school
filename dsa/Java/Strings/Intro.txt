@@ -1,0 +1,2 @@
+Array of characters, but have a terminating character in end "\0"
+Immutable in Java and C++

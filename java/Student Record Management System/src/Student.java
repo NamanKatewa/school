@@ -26,7 +26,7 @@ public class Student extends Person {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter Roll No: ");
         this.rollNo = scanner.nextLong();
-        scanner.nextLine(); // Consume newline
+        scanner.nextLine();
         System.out.print("Enter Name: ");
         this.name = scanner.nextLine();
         System.out.print("Enter Course: ");
@@ -39,6 +39,8 @@ public class Student extends Person {
             this.marks = scanner.nextDouble();
         }
         this.calculateGrade();
+
+        scanner.close();
     }
 
     public void displayDetails() {

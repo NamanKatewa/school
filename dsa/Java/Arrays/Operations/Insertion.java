@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Insertion {
 
     public static int[] insertAtIndex(int target, int elem, int[] arr) {
@@ -22,8 +24,7 @@ public class Insertion {
         int elem = 6;
         int target = 3;
         int[] result = Insertion.insertAtIndex(target, elem, arr);
-        for (int value : result) {
-            System.out.println(value);
-        }
+        System.out.println(Arrays.toString(result));
+
     }
 }
