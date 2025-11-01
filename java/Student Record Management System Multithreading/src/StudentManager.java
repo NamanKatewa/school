@@ -8,7 +8,7 @@ import java.util.Comparator;
 public class StudentManager implements RecordActions {
 
     Map<Integer, Student> students = new HashMap<>();
-    int count = 0;
+    Integer count = 0;
     Scanner sc = new Scanner(System.in);
 
     @Override
@@ -23,7 +23,7 @@ public class StudentManager implements RecordActions {
         String course = sc.nextLine();
 
         System.out.printf(Constants.ANSI_YELLOW + "Enter student marks: " + Constants.ANSI_RESET);
-        float marks = 0;
+        Float marks = 0f;
         try {
             marks = sc.nextFloat();
         } catch (java.util.InputMismatchException e) {
@@ -50,7 +50,7 @@ public class StudentManager implements RecordActions {
     @Override
     public void deleteStudent() throws StudentNotFoundException {
         System.out.printf(Constants.ANSI_YELLOW + "Enter roll number to delete: " + Constants.ANSI_RESET);
-        int rollNo = 0;
+        Integer rollNo = 0;
         try {
             rollNo = sc.nextInt();
         } catch (java.util.InputMismatchException e) {
@@ -73,7 +73,7 @@ public class StudentManager implements RecordActions {
     @Override
     public void updateStudent() throws StudentNotFoundException {
         System.out.printf(Constants.ANSI_YELLOW + "Enter roll number to update: " + Constants.ANSI_RESET);
-        int rollNo = 0;
+        Integer rollNo = 0;
         try {
             rollNo = sc.nextInt();
         } catch (java.util.InputMismatchException e) {
@@ -108,7 +108,7 @@ public class StudentManager implements RecordActions {
             student.setCourse(newCourse);
 
         System.out.printf(Constants.ANSI_YELLOW + "Enter new marks (-1 to skip): " + Constants.ANSI_RESET);
-        float newMarks = 0;
+        Float newMarks = 0f;
         try {
             newMarks = sc.nextFloat();
         } catch (java.util.InputMismatchException e) {
@@ -128,7 +128,7 @@ public class StudentManager implements RecordActions {
     @Override
     public void searchStudent() throws StudentNotFoundException {
         System.out.printf(Constants.ANSI_YELLOW + "Enter roll number to search: " + Constants.ANSI_RESET);
-        int rollNo = 0;
+        Integer rollNo = 0;
         try {
             rollNo = sc.nextInt();
         } catch (java.util.InputMismatchException e) {

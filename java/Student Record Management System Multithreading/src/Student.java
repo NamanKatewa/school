@@ -1,10 +1,10 @@
 public class Student extends Person {
-    int rollNo;
+    Integer rollNo;
     String course;
-    float marks;
+    Float marks;
     String grade;
 
-    Student(String name, String email, int rollNo, String course, float marks) {
+    Student(String name, String email, Integer rollNo, String course, Float marks) {
         this.name = name;
         this.email = email;
         this.rollNo = rollNo;
@@ -14,7 +14,7 @@ public class Student extends Person {
 
     }
 
-    private String GradeCalculator(float marks) {
+    private String GradeCalculator(Float marks) {
         if (marks > 90.0) {
             return "O";
         } else if (marks > 85.0) {
@@ -49,7 +49,7 @@ public class Student extends Person {
         this.course = course;
     }
 
-    void setMarks(float marks) {
+    void setMarks(Float marks) {
         this.marks = marks;
     }
 }
