@@ -27,19 +27,24 @@ public class StudentManager implements RecordActions {
         try {
             marks = sc.nextFloat();
         } catch (java.util.InputMismatchException e) {
-            System.out.printf(Constants.ANSI_RED + "Invalid input. Please enter a number for marks."
-                    + Constants.ANSI_RESET + "\n");
-            sc.nextLine();
+            System.out.printf(Constants.ANSI_RED + "Invalid input. Please enter a number for marks." + Constants.ANSI_RESET + "\n");
+            sc.nextLine(); // consume the invalid input
             return;
         }
         sc.nextLine();
 
+        Thread loadingThread = new Thread(new DataLoader());
+        loadingThread.start();
+        try {
+            loadingThread.join();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
         Student student = new Student(name, email, ++count, course, marks);
         students.put(count, student);
 
-        System.out.printf(
-                Constants.ANSI_GREEN + "Student with roll no. %d added successfully!" + Constants.ANSI_RESET + "\n\n",
-                count);
+        System.out.printf(Constants.ANSI_GREEN + "Student with roll no. %d added successfully!" + Constants.ANSI_RESET + "\n\n", count);
     }
 
     @Override
@@ -149,28 +154,24 @@ public class StudentManager implements RecordActions {
             return;
         }
 
-        System.out.printf("\n" + Constants.ANSI_CYAN
-                + "+----------------------------------------------------------------------------------------------------+"
-                + Constants.ANSI_RESET + "\n");
-        System.out.printf(Constants.ANSI_CYAN
-                + "|                                     All Students                                         |"
-                + Constants.ANSI_RESET + "\n");
-        System.out.printf(Constants.ANSI_CYAN
-                + "+----------------------------------------------------------------------------------------------------+"
-                + Constants.ANSI_RESET + "\n");
-        System.out.printf(
-                Constants.ANSI_BLUE + "| %-10s | %-20s | %-25s | %-15s | %-10s | %-5s |" + Constants.ANSI_RESET + "\n",
-                "Roll No", "Name", "Email", "Course", "Marks", "Grade");
-        System.out.printf(Constants.ANSI_CYAN
-                + "+----------------------------------------------------------------------------------------------------+"
-                + Constants.ANSI_RESET + "\n");
+        Thread loadingThread = new Thread(new DataLoader());
+        loadingThread.start();
+        try {
+            loadingThread.join();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        System.out.printf("\n" + Constants.ANSI_CYAN + "+----------------------------------------------------------------------------------------------------+" + Constants.ANSI_RESET + "\n");
+        System.out.printf(Constants.ANSI_CYAN + "|                                     All Students                                         |" + Constants.ANSI_RESET + "\n");
+        System.out.printf(Constants.ANSI_CYAN + "+----------------------------------------------------------------------------------------------------+" + Constants.ANSI_RESET + "\n");
+        System.out.printf(Constants.ANSI_BLUE + "| %-10s | %-20s | %-25s | %-15s | %-10s | %-5s |" + Constants.ANSI_RESET + "\n", "Roll No", "Name", "Email", "Course", "Marks", "Grade");
+        System.out.printf(Constants.ANSI_CYAN + "+----------------------------------------------------------------------------------------------------+" + Constants.ANSI_RESET + "\n");
 
         for (Student s : students.values()) {
             s.displayInfo();
         }
-        System.out.printf(Constants.ANSI_CYAN
-                + "+----------------------------------------------------------------------------------------------------+"
-                + Constants.ANSI_RESET + "\n");
+        System.out.printf(Constants.ANSI_CYAN + "+----------------------------------------------------------------------------------------------------+" + Constants.ANSI_RESET + "\n");
         System.out.printf("\n");
     }
 
