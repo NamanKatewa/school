@@ -1,11 +1,11 @@
 public interface RecordActions {
     void addStudent();
 
-    void deleteStudent();
+    void deleteStudent() throws StudentNotFoundException;
 
-    void updateStudent();
+    void updateStudent() throws StudentNotFoundException;
 
-    void searchStudent();
+    void searchStudent() throws StudentNotFoundException;
 
     void viewAllStudents();
 

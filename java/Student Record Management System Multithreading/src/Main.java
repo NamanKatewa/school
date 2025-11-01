@@ -22,9 +22,11 @@ public class Main {
         StudentManager sm = new StudentManager();
         Scanner sc = new Scanner(System.in);
 
-        System.out.printf(Constants.ANSI_YELLOW + "+------------------------------------+" + Constants.ANSI_RESET + "\n");
+        System.out
+                .printf(Constants.ANSI_YELLOW + "+------------------------------------+" + Constants.ANSI_RESET + "\n");
         System.out.printf(Constants.ANSI_YELLOW + "|    STUDENT MANAGEMENT SYSTEM     |" + Constants.ANSI_RESET + "\n");
-        System.out.printf(Constants.ANSI_YELLOW + "+------------------------------------+" + Constants.ANSI_RESET + "\n");
+        System.out
+                .printf(Constants.ANSI_YELLOW + "+------------------------------------+" + Constants.ANSI_RESET + "\n");
 
         boolean running = true;
 
@@ -39,7 +41,16 @@ public class Main {
             System.out.printf(Constants.ANSI_RED + "7. Exit" + Constants.ANSI_RESET + "\n");
             System.out.printf(Constants.ANSI_GREEN + "What do you want to do: " + Constants.ANSI_RESET);
 
-            int choice = sc.nextInt();
+            int choice = 0;
+            try {
+                choice = sc.nextInt();
+            } catch (java.util.InputMismatchException e) {
+                System.out.printf(
+                        Constants.ANSI_RED + "Invalid input. Please enter a number." + Constants.ANSI_RESET + "\n");
+                sc.nextLine();
+                pressEnterToContinue();
+                continue;
+            }
 
             switch (choice) {
                 case 1:
@@ -47,15 +58,27 @@ public class Main {
                     pressEnterToContinue();
                     break;
                 case 2:
-                    sm.deleteStudent();
+                    try {
+                        sm.deleteStudent();
+                    } catch (StudentNotFoundException e) {
+                        System.out.printf(Constants.ANSI_RED + e.getMessage() + Constants.ANSI_RESET + "\n");
+                    }
                     pressEnterToContinue();
                     break;
                 case 3:
-                    sm.updateStudent();
+                    try {
+                        sm.updateStudent();
+                    } catch (StudentNotFoundException e) {
+                        System.out.printf(Constants.ANSI_RED + e.getMessage() + Constants.ANSI_RESET + "\n");
+                    }
                     pressEnterToContinue();
                     break;
                 case 4:
-                    sm.searchStudent();
+                    try {
+                        sm.searchStudent();
+                    } catch (StudentNotFoundException e) {
+                        System.out.printf(Constants.ANSI_RED + e.getMessage() + Constants.ANSI_RESET + "\n");
+                    }
                     pressEnterToContinue();
                     break;
                 case 5:
