@@ -10,7 +10,7 @@ public class Main {
     }
 
     public static void pressEnterToContinue() {
-        System.out.printf("\u001B[33mPress Enter to continue...\u001B[0m");
+        System.out.printf(Constants.ANSI_YELLOW + "Press Enter to continue..." + Constants.ANSI_RESET);
         try {
             System.in.read();
         } catch (Exception e) {
@@ -22,22 +22,22 @@ public class Main {
         StudentManager sm = new StudentManager();
         Scanner sc = new Scanner(System.in);
 
-        System.out.printf("\u001B[33m+------------------------------------+\u001B[0m\n");
-        System.out.printf("\u001B[33m|    STUDENT MANAGEMENT SYSTEM     |\u001B[0m\n");
-        System.out.printf("\u001B[33m+------------------------------------+\u001B[0m\n");
+        System.out.printf(Constants.ANSI_YELLOW + "+------------------------------------+" + Constants.ANSI_RESET + "\n");
+        System.out.printf(Constants.ANSI_YELLOW + "|    STUDENT MANAGEMENT SYSTEM     |" + Constants.ANSI_RESET + "\n");
+        System.out.printf(Constants.ANSI_YELLOW + "+------------------------------------+" + Constants.ANSI_RESET + "\n");
 
         boolean running = true;
 
         while (running) {
             clearScreen();
-            System.out.printf("\u001B[36m1. Add a new student\u001B[0m\n");
-            System.out.printf("\u001B[36m2. Delete a student\u001B[0m\n");
-            System.out.printf("\u001B[36m3. Update details of a student\u001B[0m\n");
-            System.out.printf("\u001B[36m4. Search for a student\u001B[0m\n");
-            System.out.printf("\u001B[36m5. View all students\u001B[0m\n");
-            System.out.printf("\u001B[36m6. Sort students\u001B[0m\n");
-            System.out.printf("\u001B[31m7. Exit\u001B[0m\n");
-            System.out.printf("\u001B[32mWhat do you want to do: \u001B[0m");
+            System.out.printf(Constants.ANSI_CYAN + "1. Add a new student" + Constants.ANSI_RESET + "\n");
+            System.out.printf(Constants.ANSI_CYAN + "2. Delete a student" + Constants.ANSI_RESET + "\n");
+            System.out.printf(Constants.ANSI_CYAN + "3. Update details of a student" + Constants.ANSI_RESET + "\n");
+            System.out.printf(Constants.ANSI_CYAN + "4. Search for a student" + Constants.ANSI_RESET + "\n");
+            System.out.printf(Constants.ANSI_CYAN + "5. View all students" + Constants.ANSI_RESET + "\n");
+            System.out.printf(Constants.ANSI_CYAN + "6. Sort students" + Constants.ANSI_RESET + "\n");
+            System.out.printf(Constants.ANSI_RED + "7. Exit" + Constants.ANSI_RESET + "\n");
+            System.out.printf(Constants.ANSI_GREEN + "What do you want to do: " + Constants.ANSI_RESET);
 
             int choice = sc.nextInt();
 
@@ -71,13 +71,13 @@ public class Main {
                     break;
 
                 default:
-                    System.out.printf("\u001B[31mEnter a valid choice\u001B[0m\n");
+                    System.out.printf(Constants.ANSI_RED + "Enter a valid choice" + Constants.ANSI_RESET + "\n");
                     pressEnterToContinue();
             }
         }
 
         sc.close();
 
-        System.out.printf("\u001B[31mExiting...\u001B[0m");
+        System.out.printf(Constants.ANSI_RED + "Exiting..." + Constants.ANSI_RESET);
     }
 }
