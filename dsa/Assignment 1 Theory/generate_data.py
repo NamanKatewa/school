@@ -1,44 +1,67 @@
-import datetime
+import csv
 import random
-import os
 
-script_dir = os.path.dirname(__file__)
-data_dir = os.path.join(script_dir, "data")
 
-cities_path = os.path.join(data_dir, "sample_cities.txt")
-years_path = os.path.join(data_dir, "sample_years.txt")
-records_path = os.path.join(data_dir, "sample_records.csv")
+FILENAME = "data.csv"
+START_YEAR = 1950
+END_YEAR = 2025
 
-with open(cities_path, 'r') as f:
-    cities = [line.strip() for line in f if line.strip()]
 
-with open(years_path, 'r') as f:
-    years = [int(line.strip()) for line in f if line.strip()]
+CHANCE_OF_MISSING_DATA = 0.20
 
-with open(records_path, 'w') as f:
-    f.write("Date,City,Temperature\n")
-    for year in years:
-        for city in cities:
-            city_base_temp = 10 + random.random() * 15
 
-            start_date = datetime.date(year, 1, 1)
-            end_date = datetime.date(year, 12, 31)
-            delta = datetime.timedelta(days=1)
-            current_date = start_date
-            while current_date <= end_date:
-                day_of_year = current_date.timetuple().tm_yday
+CITIES = [
+    "New Delhi", "Mumbai", "Chennai", "Kolkata", "Bengaluru", "Hyderabad", 
+    "Pune", "Ahmedabad", "Jaipur", "Surat", "Lucknow", "Kanpur", "Nagpur", 
+    "Indore", "Thane", "Bhopal", "Visakhapatnam", "Patna", "Vadodara", 
+    "Ghaziabad", "Ludhiana", "Agra", "Nashik", "Ranchi", "Faridabad",
+    "Meerut", "Rajkot", "Kalyan-Dombivli", "Vasai-Virar", "Varanasi",
+    "Srinagar", "Aurangabad", "Dhanbad", "Amritsar", "Navi Mumbai",
+    "Prayagraj", "Howrah", "Gwalior", "Jabalpur", "Coimbatore",
+    "Vijayawada", "Jodhpur", "Madurai", "Raipur", "Kota",
+    "Guwahati", "Chandigarh", "Solapur", "Hubli-Dharwad", "Mysuru"
+]
 
-                seasonal_offset = 15 * (1 - (day_of_year - 180)**2 / 180**2) * (0.8 + random.random() * 0.4)
 
-                daily_random = (random.random() * 12 - 6)
+def generate_dataset():
+    num_cities = len(CITIES)
+    
+    print(f"Generating dataset from {START_YEAR} to {END_YEAR} for {num_cities} cities...")
+    
+    total_cells = (END_YEAR - START_YEAR + 1) * num_cities
+    filled_cells = 0
+    
+    with open(FILENAME, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(["Year", "City", "Temperature_C"])
+        
+        for year in range(START_YEAR, END_YEAR + 1):
+            for city in CITIES:
+                
+                if random.random() > CHANCE_OF_MISSING_DATA:
+                    
+                    if city == "Srinagar":
+                        temp = round(random.uniform(-5.0, 30.0), 2)
+                        
+                    elif city in ["Bengaluru", "Pune", "Mysuru", "Nashik", "Coimbatore", "Hubli-Dharwad"]:
+                        temp = round(random.uniform(12.0, 35.0), 2)
+                        
+                    elif city in ["Mumbai", "Chennai", "Kolkata", "Thane", "Visakhapatnam", "Surat", "Navi Mumbai", "Kalyan-Dombivli", "Vasai-Virar", "Howrah"]:
+                        temp = round(random.uniform(20.0, 38.0), 2)
+                        
+                    else:
+                        temp = round(random.uniform(4.0, 47.0), 2)
 
-                anomaly = 0
-                if random.random() < 0.02:
-                    anomaly = (random.random() * 20 - 10)
+                    writer.writerow([year, city, temp])
+                    filled_cells += 1
 
-                temperature = city_base_temp + seasonal_offset + daily_random + anomaly
 
-                f.write(f"{current_date.strftime('%Y-%m-%d')},{city},{temperature:.1f}\n")
-                current_date += delta
+    print(f"Done! File '{FILENAME}' created.")
+    print(f"--- Statistics ---")
+    print(f"Total Potential Entries: {total_cells}")
+    print(f"Actual Recorded Entries: {filled_cells}")
+    print(f"Sparsity: {((total_cells - filled_cells) / total_cells) * 100:.2f}% empty")
 
-print("Generated random sample_records.csv")
+
+if __name__ == "__main__":
+    generate_dataset()
