@@ -1,0 +1,40 @@
+SourceID,SourceName,DestID,DestName,Distance_km,ZoneType
+100,Central Plaza,107,Old Town,20,Residential
+101,North Gate,105,City Hall,2,Residential
+104,East Bridge,102,South Market,9,Commercial
+103,West End,107,Old Town,12,Industrial
+104,East Bridge,109,Green Valley,19,Downtown
+109,Green Valley,114,Stadium,12,Commercial
+104,East Bridge,101,North Gate,17,Park
+103,West End,107,Old Town,15,Commercial
+106,Tech Park,112,University,15,Industrial
+103,West End,114,Stadium,10,Downtown
+111,Airport Road,110,Metro Station,16,Downtown
+113,Hospital Zone,108,River Side,1,Industrial
+112,University,103,West End,15,Residential
+111,Airport Road,101,North Gate,15,Downtown
+101,North Gate,107,Old Town,13,Industrial
+110,Metro Station,102,South Market,13,Downtown
+102,South Market,111,Airport Road,1,Downtown
+104,East Bridge,100,Central Plaza,1,Park
+111,Airport Road,113,Hospital Zone,16,Downtown
+110,Metro Station,105,City Hall,8,Residential
+107,Old Town,105,City Hall,3,Industrial
+102,South Market,101,North Gate,2,Commercial
+109,Green Valley,107,Old Town,12,Industrial
+105,City Hall,110,Metro Station,13,Commercial
+112,University,103,West End,18,Commercial
+110,Metro Station,114,Stadium,16,Park
+114,Stadium,103,West End,6,Commercial
+101,North Gate,110,Metro Station,8,Industrial
+107,Old Town,110,Metro Station,18,Industrial
+108,River Side,101,North Gate,16,Industrial
+101,North Gate,100,Central Plaza,19,Park
+102,South Market,100,Central Plaza,7,Downtown
+103,West End,101,North Gate,9,Downtown
+110,Metro Station,101,North Gate,11,Park
+111,Airport Road,101,North Gate,8,Park
+105,City Hall,102,South Market,19,Residential
+108,River Side,104,East Bridge,18,Commercial
+106,Tech Park,111,Airport Road,7,Industrial
+104,East Bridge,109,Green Valley,14,Downtown
