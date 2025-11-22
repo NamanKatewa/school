@@ -44,4 +44,4 @@ void Ticket::printTicket() const {
               << std::left << std::setw(10) << ticketID
               << std::setw(20) << customerName
               << std::setw(40) << issueDescription
-              << std::setw(10) << priority << "\033[0m" << std::endl;
+              << std::setw(10) << priority << "\033[0m" << std::endl;}
