@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.dbclient-js": "javascript",
+    "*.embeddedhtml": "html",
+    "*.py": "python",
+    "*.html": "html",
+    "limits": "cpp",
+    "ostream": "cpp"
+  }
+}
