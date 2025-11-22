@@ -1,0 +1,2 @@
+2,Sneha,sneha@gmail.com,Bsc DS,99
+1,Naman,naman@gmail.com,Bsc Cyber,100
