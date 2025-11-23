@@ -1,0 +1,33 @@
+{
+	"Connection:": {
+		"Protocol version:": "TLSv1.3",
+		"Cipher suite:": "TLS_AES_128_GCM_SHA256",
+		"Key Exchange Group:": "mlkem768x25519",
+		"Signature Scheme:": "ECDSA-P256-SHA256"
+	},
+	"Host www.google.com:": {
+		"HTTP Strict Transport Security:": "Disabled",
+		"Public Key Pinning:": "Enabled"
+	},
+	"Certificate:": {
+		"Issued To": {
+			"Common Name (CN):": "*.google.com",
+			"Organization (O):": "<Not Available>",
+			"Organizational Unit (OU):": "<Not Available>"
+		},
+		"Issued By": {
+			"Common Name (CN):": "WR2",
+			"Organization (O):": "Google Trust Services",
+			"Organizational Unit (OU):": "<Not Available>"
+		},
+		"Period of Validity": {
+			"Begins On:": "Mon, 27 Oct 2025 08:33:43 GMT",
+			"Expires On:": "Mon, 19 Jan 2026 08:33:42 GMT"
+		},
+		"Fingerprints": {
+			"SHA-256 Fingerprint:": "C7:A3:E4:68:D6:D8:86:E7:C6:E2:D6:E3:1D:DA:60:9A:35:7E:71:9E:F1:91:26:57:47:43:91:7C:CE:BB:07:17",
+			"SHA1 Fingerprint:": "BD:40:9A:DB:26:FC:C1:FF:4D:85:05:A9:F0:E9:24:BD:05:29:25:7B"
+		},
+		"Transparency:": "Valid SCT records"
+	}
+}
