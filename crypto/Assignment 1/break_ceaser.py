@@ -27,10 +27,5 @@ def main():
     print("\nBrute forcing all Caesar shifts:")
     brute_force_caesar(ct)
 
-    print("\nDirect ROT13 (shift = 13) decryption:")
-    pt = caesar_decrypt(ct, 13)
-    print("Plaintext:", pt)
-
-
 if __name__ == "__main__":
     main()
