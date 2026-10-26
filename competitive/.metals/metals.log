@@ -1,0 +1,1357 @@
+2026.02.10 15:15:12 INFO  Started: Metals version 1.6.5 in folders 'D:\school\competitive' for client Visual Studio Code 1.108.2.
+2026.02.10 15:15:12 INFO  Memory monitor started
+2026.02.10 15:15:13 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.10 15:15:13 WARN  no build tool detected in workspace 'D:\school\competitive'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.10 15:15:14 WARN  Build server is not auto-connectable.
+2026.02.10 15:17:05 WARN  no build target for: D:\school\competitive\Tree.java
+2026.02.10 15:17:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 10, 2026 3:17:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.02.10 15:17:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.10 15:17:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.10 15:17:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.10 15:17:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.10 15:18:24 WARN  no build target for: D:\school\competitive\Tree.java
+2026.02.10 15:18:25 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.10 15:18:25 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.10 15:18:43 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.10 15:48:12 INFO  Shutting down server
+2026.02.10 15:48:12 INFO  Memory monitor stopped
+2026.02.10 15:48:12 INFO  shutting down Metals
+2026.02.10 15:48:12 INFO  Exiting server
+2026.02.16 15:13:59 INFO  Started: Metals version 1.6.5 in folders 'D:\school\competitive' for client Visual Studio Code 1.109.3.
+2026.02.16 15:13:59 INFO  Memory monitor started
+2026.02.16 15:13:59 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.16 15:14:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:14:00 WARN  no build tool detected in workspace 'D:\school\competitive'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.16 15:14:00 WARN  Build server is not auto-connectable.
+2026.02.16 15:14:00 WARN  no build target for: D:\school\competitive\Tree.java
+2026.02.16 15:14:02 INFO  time: code lens generation in 2.05s
+Feb 16, 2026 3:14:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.02.16 15:14:03 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 16, 2026 3:14:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Feb 16, 2026 3:14:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Feb 16, 2026 3:14:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.02.16 15:14:03 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:14:03 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 16, 2026 3:14:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2026.02.16 15:14:03 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:14:03 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:14:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:14:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:14:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 16, 2026 3:14:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Feb 16, 2026 3:14:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Feb 16, 2026 3:14:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2026.02.16 15:14:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:14:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:14:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 16, 2026 3:14:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Feb 16, 2026 3:14:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+Feb 16, 2026 3:14:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+2026.02.16 15:14:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:14:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:14:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:15:03 WARN  no build target for: D:\school\competitive\RollingWindow.java
+2026.02.16 15:15:03 WARN  Running javac-semanticdb failed for file:///D:/school/competitive/RollingWindow.java. Output:
+
+2026.02.16 15:15:03 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:03 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:04 WARN  Running javac-semanticdb failed for file:///D:/school/competitive/RollingWindow.java. Output:
+
+2026.02.16 15:15:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.16 15:15:10 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:10 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:10 WARN  no build target for: D:\school\competitive\RollingWindow.java
+2026.02.16 15:15:23 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:23 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:25 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:25 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:25 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:25 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:25 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:25 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:25 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:26 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:26 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:34 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+Feb 16, 2026 3:15:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 104
+2026.02.16 15:15:34 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:34 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:34 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:34 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:34 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:34 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:38 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:39 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:39 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:39 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:39 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:41 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:41 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:42 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:42 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:42 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:43 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:43 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:45 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:45 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:46 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:46 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:46 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:46 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:46 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:47 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:47 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:52 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:52 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:52 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:52 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:53 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:53 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:53 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:53 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:53 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:55 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:56 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:56 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:56 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:56 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:56 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:15:56 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:00 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:00 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:00 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:00 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:00 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:02 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:02 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:03 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:03 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:03 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:03 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:03 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:03 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:04 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:08 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:09 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:09 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:09 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:09 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:10 WARN  no build target for: D:\school\competitive\RollingWindow.java
+2026.02.16 15:16:09 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:12 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:16:12 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:17:23 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:34 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:34 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:34 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:39 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:39 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:39 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:39 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:22:39 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:30 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:33 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:34 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:40 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:40 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:40 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:40 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:40 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:40 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:42 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:42 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:42 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:42 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:43 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:49 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:49 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:49 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:49 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:49 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:49 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:49 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:50 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:50 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:50 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:50 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:50 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:50 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:50 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:50 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:51 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:52 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:52 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:52 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:52 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:52 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:53 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:54 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:54 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:57 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:57 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:57 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:57 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:58 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:58 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:58 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:58 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:58 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:59 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:26:59 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:01 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:01 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:01 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:09 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:09 WARN  no build target for: D:\school\competitive\RollingWindow.java
+2026.02.16 15:27:09 WARN  no build target for: D:\school\competitive\LinkedListStack.java
+2026.02.16 15:27:09 INFO  Created report: Optional[file:///D:/school/competitive/RollingWindow.java]
+2026.02.16 15:27:09 INFO  QDox parse error in file:///D:/school/competitive/RollingWindow.java (full report at: "D:\school\competitive\.metals\.reports\metals-full\2026-02-16\r_qdox-error_15-27-09-660.md")
+2026.02.16 15:27:09 WARN  Running javac-semanticdb failed for file:///D:/school/competitive/RollingWindow.java. Output:
+
+2026.02.16 15:27:09 INFO  no build target found for D:\school\competitive\LinkedListStack.java. Using fallback presentation compiler.
+2026.02.16 15:27:09 INFO  no build target found for D:\school\competitive\LinkedListStack.java. Using fallback presentation compiler.
+2026.02.16 15:27:09 INFO  no build target found for D:\school\competitive\LinkedListStack.java. Using fallback presentation compiler.
+2026.02.16 15:27:16 INFO  no build target found for D:\school\competitive\LinkedListStack.java. Using fallback presentation compiler.
+2026.02.16 15:27:16 WARN  no build target for: D:\school\competitive\RollingWindow.java
+2026.02.16 15:27:16 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:16 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:16 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:18 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:20 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:20 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:20 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:20 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:20 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:20 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:20 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:21 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:21 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:23 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:23 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:27 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:27 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:27 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:27 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:27 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:27 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:27 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:28 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:28 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:28 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:28 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:28 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:28 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:29 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:29 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:31 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:32 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:35 WARN  Running javac-semanticdb failed for file:///D:/school/competitive/RollingWindow.java. Output:
+
+2026.02.16 15:27:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:36 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:37 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:38 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:38 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:38 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:38 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:38 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:38 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:38 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:27:39 WARN  no build target for: D:\school\competitive\RollingWindow.java
+2026.02.16 15:27:40 INFO  no build target found for D:\school\competitive\RollingWindow.java. Using fallback presentation compiler.
+2026.02.16 15:39:12 INFO  Shutting down server
+2026.02.16 15:39:12 INFO  Memory monitor stopped
+2026.02.16 15:39:12 INFO  shutting down Metals
+2026.02.16 15:39:12 INFO  Exiting server
+2026.02.17 14:39:03 INFO  Started: Metals version 1.6.5 in folders 'D:\school\competitive' for client Visual Studio Code 1.109.3.
+2026.02.17 14:39:04 INFO  Memory monitor started
+2026.02.17 14:39:06 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.17 14:39:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.17 14:39:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2026.02.17 14:39:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.02.17 14:39:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.02.17 14:39:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:08 WARN  no build tool detected in workspace 'D:\school\competitive'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2026.02.17 14:39:08 WARN  Build server is not auto-connectable.
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:08 WARN  no build target for: D:\school\competitive\Tree.java
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:11 INFO  time: code lens generation in 3.04s
+2026.02.17 14:39:11 INFO  time: code lens generation in 3.04s
+2026.02.17 14:39:11 INFO  time: code lens generation in 2.47s
+2026.02.17 14:39:11 INFO  time: code lens generation in 3.04s
+2026.02.17 14:39:11 INFO  time: code lens generation in 3.04s
+2026.02.17 14:39:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:19 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:25 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:26 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:39:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 76
+Feb 17, 2026 2:39:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 77
+Feb 17, 2026 2:39:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+2026.02.17 14:39:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:35 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:35 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:35 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:35 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:37 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:37 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:38 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:38 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:39 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:39 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:40 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:40 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:40 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:41 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:46 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:46 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:46 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:46 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:50 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:50 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:50 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:50 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:50 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:50 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:50 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:52 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:52 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:52 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:53 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:53 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:53 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:53 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:39:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 159
+2026.02.17 14:39:53 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:53 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:53 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:54 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:54 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:54 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:54 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:54 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:54 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:58 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:58 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:58 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:58 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:58 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:39:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:02 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:02 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:02 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:02 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:03 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:08 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:18 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:18 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:18 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:18 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:18 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:18 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:18 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:19 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:19 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:19 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:24 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:24 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:24 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:24 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:26 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:26 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:26 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:26 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:26 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:26 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:26 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:27 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:28 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:40:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 361
+2026.02.17 14:40:28 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:28 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:28 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:31 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:34 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:36 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:36 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:36 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:36 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:36 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:37 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:37 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:37 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:37 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:37 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:37 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:38 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:38 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:38 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:38 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:38 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:40 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:40 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:40 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:40 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:40 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:40 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:41 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:41 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:41 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:41 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:42 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:42 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:42 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:42 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:43 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:43 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:43 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:43 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:43 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:44 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:54 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:54 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:55 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:55 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:55 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:55 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:55 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:55 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:56 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 17, 2026 2:40:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 503
+2026.02.17 14:40:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:58 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:40:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:01 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:02 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:02 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:16 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:19 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:19 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:19 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:19 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:19 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:19 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:20 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:20 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:20 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:20 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:20 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:20 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:25 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:30 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:31 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:31 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:31 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:31 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:32 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:32 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:32 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:32 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:32 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:33 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:34 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:48 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:48 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:48 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:48 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:48 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:48 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:50 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:50 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:50 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:41:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:09 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:09 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:09 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:09 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:09 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:09 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:09 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:12 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:12 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:12 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:14 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:14 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:14 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:14 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:14 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:14 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:14 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:14 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:16 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:16 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:18 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:18 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:18 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:20 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:25 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:25 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:25 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:27 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:27 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:27 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:27 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:39 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:39 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:42:50 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:19 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:19 WARN  no build target for: D:\school\competitive\Tree.java
+2026.02.17 14:43:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:23 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:25 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:25 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:25 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:26 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:26 WARN  no build target for: D:\school\competitive\Tree.java
+2026.02.17 14:43:26 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:27 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:27 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:27 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:43:29 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:45:03 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:45:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:58:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:58:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 14:58:22 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 15:00:20 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 15:00:20 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 15:00:21 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.17 15:00:58 INFO  Shutting down server
+2026.02.17 15:00:58 INFO  Memory monitor stopped
+2026.02.17 15:00:58 INFO  shutting down Metals
+2026.02.17 15:00:58 INFO  Exiting server
+2026.02.19 17:46:47 INFO  Started: Metals version 1.6.5 in folders 'D:\school\competitive' for client Visual Studio Code 1.109.3.
+2026.02.19 17:46:47 INFO  Memory monitor started
+2026.02.19 17:46:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.19 17:46:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.19 17:46:51 WARN  no build tool detected in workspace 'D:\school\competitive'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.19 17:46:51 WARN  Build server is not auto-connectable.
+2026.02.19 17:46:51 WARN  no build target for: D:\school\competitive\Tree.java
+2026.02.19 17:46:53 INFO  time: code lens generation in 2.27s
+2026.02.19 17:46:54 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.19 17:47:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.19 17:47:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.19 17:47:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.19 17:47:11 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 19, 2026 5:47:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Feb 19, 2026 5:47:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2026.02.19 17:47:14 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.19 17:47:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.19 17:47:15 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.19 18:39:53 INFO  Shutting down server
+2026.02.19 18:39:53 INFO  Memory monitor stopped
+2026.02.19 18:39:53 INFO  shutting down Metals
+2026.02.19 18:39:53 INFO  Exiting server
+2026.02.23 15:21:32 INFO  Started: Metals version 1.6.5 in folders 'D:\school\competitive' for client Visual Studio Code 1.109.3.
+2026.02.23 15:21:32 INFO  Memory monitor started
+2026.02.23 15:21:32 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.23 15:21:32 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:34 WARN  no build tool detected in workspace 'D:\school\competitive'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.23 15:21:34 WARN  Build server is not auto-connectable.
+2026.02.23 15:21:34 WARN  no build target for: D:\school\competitive\Tree.java
+2026.02.23 15:21:35 INFO  time: code lens generation in 1.4s
+Feb 23, 2026 3:21:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Feb 23, 2026 3:21:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2026.02.23 15:21:36 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 23, 2026 3:21:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Feb 23, 2026 3:21:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Feb 23, 2026 3:21:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2026.02.23 15:21:36 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:36 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 23, 2026 3:21:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Feb 23, 2026 3:21:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2026.02.23 15:21:36 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:36 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:39 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:39 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:39 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 23, 2026 3:21:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Feb 23, 2026 3:21:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+Feb 23, 2026 3:21:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.23 15:21:49 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:51 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:55 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:57 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:21:59 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:00 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:04 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:05 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+Feb 23, 2026 3:22:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+Feb 23, 2026 3:22:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+2026.02.23 15:22:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:07 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:08 WARN  no build target for: D:\school\competitive\Tree.java
+2026.02.23 15:22:09 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:10 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:12 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:12 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:12 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:13 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:22:14 WARN  no build target for: D:\school\competitive\Tree.java
+2026.02.23 15:29:06 INFO  no build target found for D:\school\competitive\Tree.java. Using fallback presentation compiler.
+2026.02.23 15:29:07 INFO  Shutting down server
+2026.02.23 15:29:07 INFO  Memory monitor stopped
+2026.02.23 15:29:07 INFO  shutting down Metals
+2026.02.23 15:29:07 INFO  Exiting server
+2026.03.27 15:09:05 INFO  Started: Metals version 1.6.6 in folders 'D:\school\competitive' for client Visual Studio Code 1.113.0.
+2026.03.27 15:09:05 INFO  Memory monitor started
+2026.03.27 15:09:07 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.27 15:09:07 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:08 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+Mar 27, 2026 3:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.03.27 15:09:08 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+Mar 27, 2026 3:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.03.27 15:09:08 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:08 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+Mar 27, 2026 3:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Mar 27, 2026 3:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.03.27 15:09:08 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:09 WARN  no build tool detected in workspace 'D:\school\competitive'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.27 15:09:09 WARN  no build target for: D:\school\competitive\TwoSum.java
+2026.03.27 15:09:09 WARN  Build server is not auto-connectable.
+2026.03.27 15:09:09 WARN  no build target for: D:\school\competitive\TwoSum.java
+2026.03.27 15:09:11 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:11 WARN  no build target for: D:\school\competitive\TwoSum.java
+2026.03.27 15:09:11 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+Mar 27, 2026 3:09:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2026.03.27 15:09:11 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:12 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:12 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:12 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:14 INFO  time: code lens generation in 2.38s
+2026.03.27 15:09:14 INFO  time: code lens generation in 4.88s
+2026.03.27 15:09:14 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:14 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:14 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:14 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:15 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:15 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:17 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:18 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:20 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:20 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:20 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:21 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:21 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:23 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:23 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:23 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:25 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:25 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:25 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:25 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:25 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:25 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:25 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:26 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:26 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:26 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:26 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:26 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:26 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:26 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+Mar 27, 2026 3:09:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
+2026.03.27 15:09:26 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:27 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:29 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:30 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:30 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:31 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:31 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:32 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:32 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:32 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:32 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:35 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:35 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:35 WARN  no build target for: D:\school\competitive\TwoSum.java
+2026.03.27 15:09:51 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:51 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:51 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+Mar 27, 2026 3:09:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+Mar 27, 2026 3:09:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 100
+2026.03.27 15:09:51 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+Mar 27, 2026 3:09:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 101
+2026.03.27 15:09:57 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:58 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:09:58 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:06 WARN  no build target for: D:\school\competitive\TwoSum.java
+2026.03.27 15:11:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:06 INFO  no build target found for d:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:06 WARN  no build target for: D:\school\competitive\Main.java
+2026.03.27 15:11:06 INFO  no build target found for D:\school\competitive\Main.java. Using fallback presentation compiler.
+2026.03.27 15:11:06 INFO  no build target found for D:\school\competitive\Main.java. Using fallback presentation compiler.
+2026.03.27 15:11:06 INFO  no build target found for D:\school\competitive\Main.java. Using fallback presentation compiler.
+Mar 27, 2026 3:11:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 123
+2026.03.27 15:11:16 INFO  no build target found for D:\school\competitive\Main.java. Using fallback presentation compiler.
+2026.03.27 15:11:25 INFO  no build target found for d:\school\competitive\Main.java. Using fallback presentation compiler.
+2026.03.27 15:11:25 WARN  no build target for: D:\school\competitive\TwoSum.java
+2026.03.27 15:11:25 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:25 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:25 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:26 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:27 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:27 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:29 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:29 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:31 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:31 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:31 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:33 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:34 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:34 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:36 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:36 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:36 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:36 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:36 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:36 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:38 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:40 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:40 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:40 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:40 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:40 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:41 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:41 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:41 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:42 WARN  no build target for: D:\school\competitive\TwoSum.java
+2026.03.27 15:11:41 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:48 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:48 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:51 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:51 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:51 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:51 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:51 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:51 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:51 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:52 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:52 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:53 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:53 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:53 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:53 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:54 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:54 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:54 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:55 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:55 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:55 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:55 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:55 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:55 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:55 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:55 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:55 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:57 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+Mar 27, 2026 3:11:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 229
+2026.03.27 15:11:57 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:57 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:57 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:57 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:58 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:59 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:59 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:59 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:59 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:11:59 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:00 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:00 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:00 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:00 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+Mar 27, 2026 3:12:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 252
+2026.03.27 15:12:00 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:00 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:00 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:00 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+Mar 27, 2026 3:12:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 256
+2026.03.27 15:12:00 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:01 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:01 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:01 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:03 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:03 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:03 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:03 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:06 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:06 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:11 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:12 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:12 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:13 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:12:13 WARN  no build target for: D:\school\competitive\TwoSum.java
+2026.03.27 15:13:33 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:33 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:33 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:35 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:35 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:36 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:36 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:37 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:37 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:37 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:37 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:37 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:38 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:38 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:38 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:38 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:38 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:40 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:40 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:40 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:41 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:43 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:43 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:43 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:43 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:43 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:44 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:44 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:46 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:46 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:46 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:46 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:46 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:46 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:48 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:48 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:13:48 WARN  no build target for: D:\school\competitive\TwoSum.java
+2026.03.27 15:14:28 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:14:36 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:14:36 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:14:37 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:14:40 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:14:42 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:14:42 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:14:42 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:14:43 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:14:43 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:14:43 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:15:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:15:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:15:04 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:15:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:15:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:15:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:15:05 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:15:07 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:15:07 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:15:07 WARN  no build target for: D:\school\competitive\TwoSum.java
+2026.03.27 15:16:43 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:28:30 INFO  no build target found for D:\school\competitive\TwoSum.java. Using fallback presentation compiler.
+2026.03.27 15:28:31 INFO  Shutting down server
+2026.03.27 15:28:31 INFO  Memory monitor stopped
+2026.03.27 15:28:31 INFO  shutting down Metals
+2026.03.27 15:28:31 INFO  Exiting server
+2026.08.13 15:19:34 INFO  Started: Metals version 1.6.8 in folders 'D:\school\competitive' for client Visual Studio Code 1.132.1.
+2026.08.13 15:19:34 INFO  Memory monitor started
+2026.08.13 15:19:35 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.08.13 15:19:35 WARN  no build tool detected in workspace 'D:\school\competitive'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.08.13 15:19:36 WARN  Build server is not auto-connectable.
+2026.08.13 15:46:48 INFO  Shutting down server
+2026.08.13 15:46:48 INFO  Memory monitor stopped
+2026.08.13 15:46:48 INFO  shutting down Metals
+2026.08.13 15:46:48 INFO  Exiting server

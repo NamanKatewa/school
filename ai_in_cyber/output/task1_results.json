@@ -1,0 +1,119 @@
+{
+    "dataset_shape": [
+        25192,
+        45
+    ],
+    "train_samples": 20153,
+    "test_samples": 5039,
+    "binary_distribution": {
+        "0": 13449,
+        "1": 11743
+    },
+    "multi_distribution": {
+        "Normal": 13449,
+        "DoS": 9234,
+        "Probe": 2289,
+        "R2L": 209,
+        "U2R": 11
+    },
+    "categorical_columns": [
+        "protocol_type",
+        "service",
+        "flag"
+    ],
+    "results": {
+        "Decision Tree": {
+            "Accuracy": 0.9958325064496923,
+            "Precision": 0.9953191489361702,
+            "Recall": 0.9957428693060877,
+            "F1_Score": 0.995530964034901,
+            "ROC_AUC": 0.9962161387982864,
+            "Train_Time_s": 0.10637378692626953,
+            "Infer_Time_s": 0.0014204978942871094,
+            "Confusion_Matrix": [
+                [
+                    2679,
+                    11
+                ],
+                [
+                    10,
+                    2339
+                ]
+            ],
+            "TN": 2679,
+            "FP": 11,
+            "FN": 10,
+            "TP": 2339
+        },
+        "Random Forest": {
+            "Accuracy": 0.9972216709664616,
+            "Precision": 0.9991449337323642,
+            "Recall": 0.9948914431673053,
+            "F1_Score": 0.9970136518771331,
+            "ROC_AUC": 0.999915965189648,
+            "Train_Time_s": 0.40770792961120605,
+            "Infer_Time_s": 0.0590517520904541,
+            "Confusion_Matrix": [
+                [
+                    2688,
+                    2
+                ],
+                [
+                    12,
+                    2337
+                ]
+            ],
+            "TN": 2688,
+            "FP": 2,
+            "FN": 12,
+            "TP": 2337
+        },
+        "Support Vector Machine (SVM)": {
+            "Accuracy": 0.9878944234967255,
+            "Precision": 0.9839255499153976,
+            "Recall": 0.9902085994040017,
+            "F1_Score": 0.9870570761722894,
+            "ROC_AUC": 0.9989260636100785,
+            "Train_Time_s": 11.115987300872803,
+            "Infer_Time_s": 0.6546099185943604,
+            "Confusion_Matrix": [
+                [
+                    2652,
+                    38
+                ],
+                [
+                    23,
+                    2326
+                ]
+            ],
+            "TN": 2652,
+            "FP": 38,
+            "FN": 23,
+            "TP": 2326
+        }
+    },
+    "top_features_rf": [
+        "src_bytes",
+        "dst_bytes",
+        "same_srv_rate",
+        "dst_host_same_srv_rate",
+        "flag",
+        "dst_host_srv_count",
+        "logged_in",
+        "count",
+        "protocol_type",
+        "diff_srv_rate"
+    ],
+    "top_features_dt": [
+        "src_bytes",
+        "protocol_type",
+        "dst_host_srv_count",
+        "dst_bytes",
+        "dst_host_srv_rerror_rate",
+        "hot",
+        "service",
+        "logged_in",
+        "dst_host_srv_diff_host_rate",
+        "dst_host_same_srv_rate"
+    ]
+}

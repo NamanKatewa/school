@@ -1,4 +1,6 @@
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 
 public class Tree {
     static class TreeNode {
@@ -13,12 +15,33 @@ public class Tree {
         }
     }
 
+    List<Integer> diameterList = new ArrayList<>();
+
     public static int height(TreeNode root) {
         if (root == null)
             return -1;
         int lh = height(root.left);
         int rh = height(root.right);
         return 1 + Math.max(lh, rh);
+    }
+
+    public static int diameter(TreeNode root) {
+        if (root == null)
+            return -1;
+        int lh = diameter(root.left);
+        int rh = diameter(root.right);
+        int d = lh + rh;
+        return d;
+    }
+
+    public static boolean isSame(TreeNode p, TreeNode q) {
+        if (p == null && q == null) {
+            return true;
+        }
+        if (p == null || q == null) {
+            return false;
+        }
+        return (p.data == q.data) && isSame(p.left, q.left) && isSame(p.right, q.right);
     }
 
     public static int countLeaves(TreeNode root) {

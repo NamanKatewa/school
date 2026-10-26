@@ -1,0 +1,76 @@
+{
+    "domain": "Network Intrusion Detection Systems (NIDS)",
+    "techniques": [
+        {
+            "name": "Random Forest (Ensemble Learning)",
+            "category": "Supervised Tree-based Ensemble",
+            "datasets_used": [
+                "NSL-KDD",
+                "CICIDS-2017",
+                "UNSW-NB15"
+            ],
+            "reported_metrics": {
+                "Detection_Rate": "99.5% - 99.8%",
+                "False_Alarm_Rate": "< 0.5%",
+                "F1_Score": "99.6%"
+            },
+            "advantages": [
+                "Extreme computational efficiency during line-rate inference",
+                "Direct feature importance ranking",
+                "Intrinsic robustness to monotonic transformations and irrelevant features"
+            ],
+            "limitations": [
+                "Degraded generalization against structurally novel zero-day exploits",
+                "Large memory footprint for ultra-deep tree ensembles"
+            ]
+        },
+        {
+            "name": "Support Vector Machine (Kernelized SVM)",
+            "category": "Supervised Maximum Margin Hyperplane",
+            "datasets_used": [
+                "NSL-KDD",
+                "DARPA 1999",
+                "Kyoto 2006+"
+            ],
+            "reported_metrics": {
+                "Detection_Rate": "96.5% - 98.8%",
+                "False_Alarm_Rate": "1.2% - 2.5%",
+                "F1_Score": "98.1%"
+            },
+            "advantages": [
+                "Rigorous mathematical foundation minimizing structural risk",
+                "Effective in high-dimensional feature spaces",
+                "Robust against local minima"
+            ],
+            "limitations": [
+                "Quadratic to cubic training complexity O(N^2 - N^3)",
+                "Slow inference per packet due to support vector kernel evaluations",
+                "High sensitivity to feature scaling and hyperparameter tuning"
+            ]
+        },
+        {
+            "name": "Deep Autoencoders (Reconstruction Anomaly Detection)",
+            "category": "Unsupervised / Self-Supervised Deep Learning",
+            "datasets_used": [
+                "CICIDS-2017",
+                "CSE-CIC-IDS2018",
+                "Kitsune"
+            ],
+            "reported_metrics": {
+                "Detection_Rate": "95.0% - 98.2%",
+                "False_Alarm_Rate": "1.8% - 3.2%",
+                "F1_Score": "97.2%"
+            },
+            "advantages": [
+                "Superior zero-day attack identification without requiring attack signatures",
+                "Learns complex non-linear latent manifolds of benign network traffic",
+                "End-to-end representation learning bypassing manual feature engineering"
+            ],
+            "limitations": [
+                "Black-box lack of interpretability impeding SOC incident triage",
+                "High computational cost requiring GPU acceleration for real-time retraining",
+                "Susceptible to threshold tuning drift in dynamic network environments"
+            ]
+        }
+    ]
+}
